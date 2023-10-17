@@ -1,4 +1,4 @@
-// t nè má
+// cmt vầy nè r mốt copy về
 using System.Diagnostics;
 using System.Text;
 
